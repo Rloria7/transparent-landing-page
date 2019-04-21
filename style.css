@@ -38,6 +38,11 @@ margin-right:0;
 .collapse:hover ul{
 color: aliceblue;
 }
+footer{
+    padding: 100px;
+    color: #fff;
+    text-align: center;
+}
 @media(max-widht:640px){
     .home-text{
         margin-top: 55%;
